@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">- Front-end Developer at Link Jr <br> - Studying Information Systems at @UFPA</p>
+<p align="left">- Front-end Developer at Link Jr <br> - Studying Information Systems at Federal University of Pará </p>
 
 ###
 
