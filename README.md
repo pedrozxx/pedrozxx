@@ -1,9 +1,10 @@
 ## Hi there 👋 I am Pedro Augusto 
-<h2 align="left">About Me</h2>
+
 
 ###
 
-<p align="left">- Front-end Developer at Link Jr <br> - Studying Information Systems at [UFPA](https://ufpa.br/) </p>
+  >- Front-end Developer at Link Jr <br>
+  >-  Studying Information Systems at [UFPA](https://ufpa.br/) 
 
 ###
 
