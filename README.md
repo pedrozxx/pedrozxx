@@ -1,67 +1,91 @@
-## Hi there 👋 I am Pedro Augusto 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00b2,100:ff00b2&height=120&section=header"/>
 
+<h1 align="center"> Hi there! Eu sou Pedro Augusto </h1><br>
 
-###
+## Seja bem-vindo ao meu GitHub. 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-  >- Front-end Developer <br>
-  >-  Studying Information Systems at [UFPA](https://ufpa.br/) 
+- ⚡ Apaixonado por Tecnologia, Esportes e Música
+- 🎓 Cursando de Sistema de Informação na Universidade Federal do Pará
+- 🏦 Atualmente Estou Focado Em Ser Um Engenheiro De Software
 
-###
+<br/>
+<br/>
 
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrozxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrozxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrozxx&radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">Social Medias</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/predomcz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="predozxx" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="www.linkedin.com/in/pedro-augusto-38825224b" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-
-###
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="92px" width="92px" alt="LinkJr" src="https://media.licdn.com/dms/image/v2/D4E0BAQHaPS3HOuR42A/company-logo_200_200/company-logo_200_200/0/1726182004162/linkjr_logo?e=1738195200&v=beta&t=bjY1eMBzRQCjDysvIVEtTg5SRnY0VcY7j-vGF453MWU"/>](https://www.spacex.com/)
-
+**Desenvolvedor Front-End** \
+[<img align="left" height="94px" width="94px" alt="Compass UOL" src="https://linkjr.com.br/favicon.ico"/>](https://linkjr.com.br/) 
 **Desenvolvedor Full-Stack** \
 [*LinkJr*](https://linkjr.com.br/) • Part-time remoto \
-Aug 2024 -  Atualmente \
+Aug 2024 - Out 2025 \
 Linguagens & Tecnologias: `React`, `Next.js`, `Nest.js`, `Typescript`
+
+ - **Segurança com TypeScript:** Implementação de tipagem avançada para prevenção de erros e documentação implícita do código.
+
+- **Eficiência com React:** Arquitetura baseada em componentes reutilizáveis (Princípio DRY), reduzindo o custo de manutenção.
+
+- **Otimização de Performance:** Aplicação de técnicas de renderização e Lazy Loading para atingir altas pontuações no Core Web Vitals.
+
+- **Design Responsivo:** Desenvolvimento Mobile-First utilizando stacks modernas como Tailwind CSS para garantir consistência visual em qualquer tela.
+
+- **Experiência do Usuário:** Uso de Framer Motion para criar transições suaves que elevam o patamar estético do produto.
+
+## Habilidades Técnicas
+
+- **Minhas Stack :**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+</div>
+
+- **Frameworks e Bibliotecas:**
+<p align="left">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"&link=https://expressjs.com/pt-br/ alt="Express"/></a>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"&link=https://react.dev/ alt="React"/></a>
+
+- **Bancos de Dados:**
+<p align="left">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"&link=https://www.mysql.com/ alt="MySQL"/></a>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"&link=https://www.mongodb.com/pt-br alt="MongoDB"/></a>
+
+- **Ferramentas e Plataformas:**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+
+## Idiomas
+>### **Português 🇧🇷**
+>Nativo
+
+>### **Inglês 🇺🇸**
+>Avançado 
+
+## Contato
+
+<p align="left">
+
+
+<a href="https://www.linkedin.com/in/pedro-darolt/" title="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.instagram.com/styvisonviana/" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/_pedrodarolt/" title="Instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/italoosouza_/" alt="Instagram"/></a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00b2,100:ff00b2&height=120&section=footer"/>
