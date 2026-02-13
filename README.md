@@ -51,9 +51,11 @@ Linguagens & Tecnologias: `React`, `Next.js`, `Nest.js`, `Typescript`
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"&link=https://react.dev/ alt="React"/></a>
 
 - **Bancos de Dados:**
-<p align="left">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"&link=https://www.mysql.com/ alt="MySQL"/></a>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"&link=https://www.mongodb.com/pt-br alt="MongoDB"/></a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
 
 - **Ferramentas e Plataformas:**
 <div align="left">
