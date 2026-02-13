@@ -43,7 +43,6 @@ Linguagens & Tecnologias: `React`, `Next.js`, `Nest.js`, `Typescript`
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
 
 - **Frameworks e Bibliotecas:**
