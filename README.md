@@ -45,11 +45,6 @@ Linguagens & Tecnologias: `React`, `Next.js`, `Nest.js`, `Typescript`
   <img width="12" />
 </div>
 
-- **Frameworks e Bibliotecas:**
-<p align="left">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"&link=https://expressjs.com/pt-br/ alt="Express"/></a>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"&link=https://react.dev/ alt="React"/></a>
-
 - **Bancos de Dados:**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
