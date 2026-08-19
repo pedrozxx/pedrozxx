@@ -5,7 +5,7 @@ Desenvolvedor full-stack em formação. Meu código roda em produção: painéis
 - 🎓 Bacharelado em Sistemas de Informação — UFPA (conclusão prevista: dez/2027)
 - 💼 Estagiário de desenvolvimento na **Norte Geradores**
 - 📍 Castanhal, Pará — Brasil
-- 🗣️ Português (nativo) · Inglês avançado (certificado)
+- 🗣️ Português (nativo) · Inglês avançado
 
 📫 **[pedrocod.dev@gmail.com](mailto:pedrocod.dev@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/pedro-darolt/) · [Portfólio](https://pedrozxx.github.io/portfolio-dev/)
 
