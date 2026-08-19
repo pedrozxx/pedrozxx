@@ -1,87 +1,32 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00b2,100:ff00b2&height=120&section=header"/>
+# Hi there! Eu sou Pedro Augusto 👋
 
-<h1 align="center"> Hi there! Eu sou Pedro Augusto </h1><br>
+Desenvolvedor full-stack em formação. Meu código roda em produção: painéis de BI que a diretoria consulta, uma landing page que capta leads e automações que coletam dados públicos todos os dias.
 
-## Seja bem-vindo ao meu GitHub. 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+- 🎓 Bacharelado em Sistemas de Informação — UFPA (conclusão prevista: dez/2027)
+- 💼 Estagiário de desenvolvimento na **Norte Geradores**
+- 📍 Castanhal, Pará — Brasil
+- 🗣️ Português (nativo) · Inglês avançado (certificado)
 
-- ⚡ Apaixonado por Tecnologia, Esportes e Música
-- 🎓 Cursando de Sistema de Informação na Universidade Federal do Pará
-- 🏦 Atualmente Estou Focado Em Ser Um Engenheiro De Software
+## No que trabalho hoje
 
-<br/>
-<br/>
+Na Norte Geradores atuo no ciclo completo das ferramentas internas da empresa:
 
-**Desenvolvedor Front-End** \
-[<img align="left" height="94px" width="94px" alt="Compass UOL" src="https://linkjr.com.br/favicon.ico"/>](https://linkjr.com.br/) 
-**Desenvolvedor Full-Stack** \
-[*LinkJr*](https://linkjr.com.br/) • Part-time remoto \
-Aug 2024 - Out 2025 \
-Linguagens & Tecnologias: `React`, `Next.js`, `Nest.js`, `Typescript`
+- Painéis de **BI comerciais** em Streamlit e React, usados pela diretoria
+- Reescrita da ferramenta de **prospecção de vendas**: de Streamlit para **React (Vite) + FastAPI**
+- **Landing page** de captação de leads (React + Express), em produção
+- **Automações** de coleta de dados públicos (PNCP, Receita Federal) e integração com APIs de IA (Anthropic, Google Gemini)
+- **Deploy e operação** em servidor Linux: systemd, nginx, Cloudflare Tunnel
+- **Git/GitHub** no dia a dia: branches, pull requests e code review
 
- - **Segurança com TypeScript:** Implementação de tipagem avançada para prevenção de erros e documentação implícita do código.
+> Os projetos da Norte são ferramentas internas da empresa, então o código não está aqui. O que dá para ver do meu trabalho está nos repositórios fixados abaixo.
 
-- **Eficiência com React:** Arquitetura baseada em componentes reutilizáveis (Princípio DRY), reduzindo o custo de manutenção.
+## Stack
 
-- **Otimização de Performance:** Aplicação de técnicas de renderização e Lazy Loading para atingir altas pontuações no Core Web Vitals.
+**Linguagens** JavaScript · TypeScript · Python · SQL · HTML · CSS
+**Front-end** React · Vite · Tailwind CSS
+**Back-end e dados** Node.js · Express · FastAPI · Streamlit · Pandas · MongoDB
+**Infra e ferramentas** Git · GitHub · Linux · Nginx · Cloudflare Tunnel
 
-- **Design Responsivo:** Desenvolvimento Mobile-First utilizando stacks modernas como Tailwind CSS para garantir consistência visual em qualquer tela.
+## Onde me achar
 
-- **Experiência do Usuário:** Uso de Framer Motion para criar transições suaves que elevam o patamar estético do produto.
-
-## Habilidades Técnicas
-
-- **Minhas Stack :**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-</div>
-
-- **Bancos de Dados:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-- **Ferramentas e Plataformas:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
-
-## Idiomas
->### **Português 🇧🇷**
->Nativo
-
->### **Inglês 🇺🇸**
->Avançado 
-
-## Contato
-
-<p align="left">
-
-
-<a href="https://www.linkedin.com/in/pedro-darolt/" title="LinkedIn">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.instagram.com/styvisonviana/" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/_pedrodarolt/" title="Instagram">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/italoosouza_/" alt="Instagram"/></a>
-</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00b2,100:ff00b2&height=120&section=footer"/>
+[LinkedIn](https://www.linkedin.com/in/pedro-darolt/)
