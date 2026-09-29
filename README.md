@@ -1,60 +1,38 @@
-# Hi there! Eu sou Pedro Augusto 👋
+# Pedro Augusto Darolt
 
-Desenvolvedor full-stack em formação. Meu código roda em produção: painéis de BI que a diretoria consulta, uma landing page que capta leads e automações que coletam dados públicos todos os dias.
+Desenvolvedor de software em formação, com experiência em desenvolvimento na Norte Geradores e na Link Jr. Busco uma oportunidade como **desenvolvedor ou engenheiro de software júnior**, em Castanhal, Belém ou remoto.
 
-- 🎓 Bacharelado em Sistemas de Informação — UFPA (conclusão prevista: dez/2027)
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Estácio (conclusão prevista: dez/2028)
-- 💼 Estagiário de desenvolvimento na **Norte Geradores**
-- 📍 Castanhal, Pará — Brasil
-- 🗣️ Português (nativo) · Inglês avançado
+Trabalho com React, Node.js e Python. Aqui você encontra projetos públicos para conhecer meu código, as decisões que tomei e os limites de cada aplicação.
 
-📫 **[pedrocod.dev@gmail.com](mailto:pedrocod.dev@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/pedro-darolt/) · [Portfólio](https://pedrozxx.github.io/portfolio-dev/)
+[Portfólio](https://pedrozxx.github.io/portfolio-dev/) · [LinkedIn](https://www.linkedin.com/in/pedro-darolt/) · [E-mail](mailto:pedrocod.dev@gmail.com)
 
-> **Aberto a oportunidades** de estágio ou posição júnior em desenvolvimento de software — em Castanhal, Belém ou remoto.
+## Por onde começar
 
-## No que trabalho hoje
+| Projeto | O que você pode avaliar | Código e demonstração |
+| --- | --- | --- |
+| **Radar de Licitações do Pará** | Integração com API pública, normalização de dados, cache, coleta agendada e testes com pytest e Vitest. React, TypeScript e FastAPI. | [Código](https://github.com/pedrozxx/radar-licitacoes-pa) · [Demo](https://pedrozxx.github.io/radar-licitacoes-pa/) |
+| **Portfólio** | React e TypeScript, páginas em português e inglês, pré-renderização estática e verificações automatizadas de conteúdo e HTML. | [Código](https://github.com/pedrozxx/portfolio-dev) · [Site](https://pedrozxx.github.io/portfolio-dev/) |
+| **Mundo Pet** | Agenda em JavaScript: validação, conflito de horários, persistência local e manipulação do DOM. Demonstração sem servidor. | [Código](https://github.com/pedrozxx/Mundo-Pet) · [Demo](https://pedrozxx.github.io/Mundo-Pet/) |
 
-Na Norte Geradores atuo no ciclo completo das ferramentas internas da empresa:
+Outros estudos: [conversor de moedas](https://github.com/pedrozxx/conversor-de-valor), [CSS Grid](https://github.com/pedrozxx/Portal-de-noticias) e [Flappy Bird em Python/Pygame](https://github.com/pedrozxx/flappy-bird-PI). Os READMEs explicam como executar cada projeto; o jogo roda localmente.
 
-- Painéis de **BI comerciais** em Streamlit e React, usados pela diretoria
-- Reescrita da ferramenta de **prospecção de vendas**: de Streamlit para **React (Vite) + FastAPI**
-- **Landing page** de captação de leads (React + Express), em produção
-- **Automações** de coleta de dados públicos (PNCP, Receita Federal) e integração com APIs de IA (Anthropic, Google Gemini)
-- **Deploy e operação** em servidor Linux: systemd, nginx, Cloudflare Tunnel
-- **Git/GitHub** no dia a dia: branches, pull requests e code review
+## Experiência
 
-> Os projetos da Norte são ferramentas internas da empresa, então o código não está aqui. O que dá para ver do meu trabalho está nos repositórios fixados abaixo.
+**Norte Geradores — estágio em desenvolvimento de software**
 
-Antes disso, fui **Desenvolvedor Front-End na [Link Jr](https://linkjr.com.br/)** (empresa júnior da UFPA), de set/2024 a nov/2025: projetos de ponta a ponta com React, Node.js, Express e MongoDB, pipelines de CI/CD em Vercel, Heroku e AWS, e trabalho em time com Scrum e code review.
+Atuo em painéis de BI, ferramentas de prospecção, integração com APIs, automações e manutenção de aplicações em Linux. Uso React, FastAPI, Streamlit e Node.js conforme a ferramenta. O código dos sistemas internos é fechado; posso explicar minha participação e as decisões técnicas em entrevista, respeitando a confidencialidade da empresa.
 
-## Projetos públicos
+**Link Jr — desenvolvimento front-end · set/2024 a nov/2025**
 
-Todos abrem direto no navegador — é só clicar.
+Experiência com React, Node.js, Express e MongoDB em projetos de equipe. Nos forks públicos, a descrição identifica minha contribuição para não confundir colaboração com autoria integral.
 
-| Projeto | O que é | Stack | Demo |
-| --- | --- | --- | --- |
-| **[Radar de Licitações do Pará](https://github.com/pedrozxx/radar-licitacoes-pa)** | As compras públicas do estado, filtráveis por município, prazo e valor. Dados do PNCP, coletados por job diário | React · TypeScript · FastAPI | em deploy |
-| **[Agenda Pet Shop](https://github.com/pedrozxx/Mundo-Pet)** | Agenda de atendimentos com validação, bloqueio de conflito de horário e tema claro/escuro | JS · A11y | [Abrir](https://pedrozxx.github.io/Mundo-Pet/) |
-| **[Conversor de Valor](https://github.com/pedrozxx/conversor-de-valor)** | Conversor de moedas com cotação real via API e cache de 24h em `localStorage` | JS · API REST | [Abrir](https://conversor-de-valor.vercel.app) |
-| **[Portfólio](https://github.com/pedrozxx/portfolio-dev)** | Meu site pessoal, responsivo e sem dependências | HTML · CSS | [Abrir](https://pedrozxx.github.io/portfolio-dev/) |
-| **[Portal de Notícias](https://github.com/pedrozxx/Portal-de-noticias)** | Layout editorial responsivo construído com CSS Grid | HTML · CSS Grid | [Abrir](https://pedrozxx.github.io/Portal-de-noticias/) |
-| **[Flappy Bird](https://github.com/pedrozxx/flappy-bird-PI)** | Recriação do clássico em Python, projeto integrador da faculdade | Python · Pygame | — |
+## Formação
 
-## Stack
+- Sistemas de Informação — UFPA, conclusão prevista em **dezembro de 2027**.
+- Análise e Desenvolvimento de Sistemas — Estácio, conclusão prevista em **dezembro de 2028**.
 
-**Linguagens** JavaScript · TypeScript · Python · SQL · HTML · CSS
-**Front-end** React · Vite · Tailwind CSS
-**Back-end e dados** Node.js · Express · FastAPI · Streamlit · Pandas · MongoDB
-**Infra e ferramentas** Git · GitHub · Linux · Nginx · Cloudflare Tunnel
+## Tecnologias no código público
 
-## Formação e cursos
+JavaScript · TypeScript · Python · React · FastAPI · HTML · CSS · GitHub Actions · pytest · Vitest.
 
-**Bacharelado em Sistemas de Informação** — Universidade Federal do Pará (UFPA) · ago/2022 – dez/2027 *(previsão)*
-**Tecnólogo em Análise e Desenvolvimento de Sistemas** — Estácio · até dez/2028 *(previsão)*
-
-**Rocketseat** — Engenharia de Prompt (2026) · Node.js (2025) · JavaScript (2025) · HTML e CSS (2024–2025)
-**DevClub** — Minicurso Full-Stack (2024)
-
-## Onde me achar
-
-[LinkedIn](https://www.linkedin.com/in/pedro-darolt/) · [pedrocod.dev@gmail.com](mailto:pedrocod.dev@gmail.com) · [Portfólio](https://pedrozxx.github.io/portfolio-dev/)
+Meu foco é conseguir explicar o fluxo de dados, reproduzir a execução e testar os comportamentos que podem falhar. Para conversar sobre uma vaga: **[pedrocod.dev@gmail.com](mailto:pedrocod.dev@gmail.com)**.
